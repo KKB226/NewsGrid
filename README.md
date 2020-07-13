@@ -1,4 +1,7 @@
 # NewsGrid
 Sample CSS grid website
 
-Wagwan
+
+Pokemon Go-to-the-polls
+
+- Crooked Hillary
